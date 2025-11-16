@@ -1,1 +1,1 @@
-odd
+wrong input
